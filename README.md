@@ -36,21 +36,21 @@ Microsoft Azure OpenAI와 Azure Speech 서비스를 활용하여, 누구에게�
 
 
 ## :pushpin: 활용 기술 (Tech)
-개발 언어 : Python
-데이터 수집 : XML Parsing
+개발 언어 : Python  
+데이터 수집 : XML Parsing  
 
-<모델 생성>
-Azure AI Studio (OpenAI GPT-4o, AI Search)
-Azure Speech Studio (TTS, Custom Voice, Personal Voice)
+<모델 생성>  
+Azure AI Studio (OpenAI GPT-4o, AI Search)  
+Azure Speech Studio (TTS, Custom Voice, Personal Voice)  
 
-<웹 구현 및 배포>
-웹 구현 : HTML, CSS, JS, Python Flask
-웹 배포 : Google Cloud Platform
+<웹 구현 및 배포>  
+웹 구현 : HTML, CSS, JS, Python Flask  
+웹 배포 : Google Cloud Platform  
 
 
 ## :pushpin: 실행 화면 (Result)
 이미지 첨부
 
 ## :pushpin: 참고사항 (Notes)
-* 실제 ‘온통청년’ 사이트와 연결된 챗봇이 아니며 프로젝트를 위한 가상의 화면입니다. 
+* 실제 ‘온통청년’ 사이트와 연결된 챗봇이 아니며 프로젝트를 위한 가상의 화면입니다.   
 * 이 프로젝트는 Microsoft Azure 서비스를 활용했습니다. 해당 서비스를 이용하기 위해서는 Azure 서비스의 API 키와 EndPoint 값이 필요합니다.
