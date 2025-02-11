@@ -52,7 +52,7 @@ Azure Speech Studio (TTS, Custom Voice, Personal Voice) for
 
 ## :pushpin: 참고사항 (Notes)
   실제 ‘온통청년’ 사이트와 연결된 챗봇이 아니며 프로젝트를 위한 가상의 화면입니다.   
-  이 프로젝트는 Microsoft Azure 서비스를 활용했습니다. 해당 서비스를 이용하기 위해서는 Azure 서비스의 API 키와 EndPoint 값이 필요합니다.  
+  이 프로젝트는 Microsoft Azure 서비스를 활용했습니다. 해당 코드를 활용하기 위해서는 Azure 서비스의 API 키와 EndPoint 값이 필요합니다.  
   
   This is not an actual chatbot connected to the "온통청년(youthcenter.go.kr)" website.
-  This project utilizes Microsoft Azure services. To use these services, an API key and endpoint for the Azure service are required.
+  This project utilizes Microsoft Azure services. To use these codes, an API key and endpoint for the Azure service are required.
