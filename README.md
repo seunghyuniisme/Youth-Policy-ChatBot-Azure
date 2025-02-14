@@ -40,17 +40,11 @@ Furthermore, **Azure AI Studio’s OpenAI (GPT-4o), AI Search, and Chat Playgrou
 ----
 
 
-**Improved Policy Accessibility**  
-Helping users easily access various policies, contributing to higher participation rates.
+* **Improved Policy Accessibility**    
+* **Efficient Information Delivery**    
+* **Enhanced Policy Promotion & Business Potential**    
+* **Personalized User Experience**    
 
-**Efficient Information Delivery**  
-Providing quick and accurate details on policies and application methods.
-
-**Enhanced Policy Promotion & Business Potential**  
-Using famous characters or celebrities' voices for continuous policy promotion, expanding business potential. (Voice usage will strictly follow AI ethical guidelines.)
-
-**Personalized User Experience**  
-Delivering tailored services to increase user satisfaction and enhance policy utilization.
 
 
 
