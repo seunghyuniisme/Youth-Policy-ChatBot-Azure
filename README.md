@@ -1,6 +1,6 @@
 # 맞춤형 청년정책 추천 AI 챗봇  (Youth Policy Recommendation AI ChatBot Using MS Azure OpenAI)
 
-Microsoft Azure OpenAI와 Azure Speech 서비스를 활용하여, 누구에게나 간편하고 직관적인 청년 정책 추천 AI 챗봇을 만들었습니다. 
+Microsoft Azure OpenAI와 Azure Speech Studio를 활용하여 누구에게나 간편하고 직관적인 청년정책 추천 AI 챗봇을 만들었습니다.
 
 대한민국에서 시행되고 있는 청년 정책의 수는 약 300개에 이르며 다양한 분야에 걸쳐 청년의 삶을 지원하고 있습니다. 하지만 정부 포털 사이트, SNS 등 다양한 매체에 정책 정보가 분산되어 있어 정보의 세부 내용을 확인하는데 많은 시간이 소요된다는 단점이 있었습니다. 이러한 배경을 바탕으로 사용자에게 편리함을 줄 수 있는 AI 챗봇을 만들게 되었습니다.   
 
