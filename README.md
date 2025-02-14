@@ -37,13 +37,12 @@ Furthermore, **Azure AI Studio’s OpenAI (GPT-4o), AI Search, and Chat Playgrou
 * **사용자 맞춤형 경험 제공**  
 개별 사용자의 요구에 맞춘 서비스를 제공해, 사용자 만족도를 높이고 정책의 활용도를 증가시키는 효과를 기대한다.
 
+---
 
-* **Improved Policy Accessibility**    
-* **Efficient Information Delivery**    
-* **Enhanced Policy Promotion & Business Potential**    
-* **Personalized User Experience**    
-
-
+* Improved Policy Accessibility  
+* Efficient Information Delivery  
+* Enhanced Policy Promotion & Business Potential    
+* Personalized User Experience    
 
 
 
