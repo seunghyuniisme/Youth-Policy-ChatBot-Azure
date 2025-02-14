@@ -49,6 +49,9 @@ Furthermore, **Azure AI Studio’s OpenAI (GPT-4o), AI Search, and Chat Playgrou
 ## :pushpin: 업무 분담 
 
 
+
+
+
 ## :pushpin: 주요 기능 (Key Features)
 1. AI Search 
 
