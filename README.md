@@ -4,9 +4,9 @@
 대한민국에서 시행되고 있는 청년 정책의 수는 약 300개에 이르며 다양한 분야에 걸쳐 청년의 삶을 지원하고 있습니다. 하지만 정부 포털 사이트, SNS 등 다양한 매체에 **정책 정보가 분산되어 있어 정보의 세부 내용을 확인하는데 많은 시간이 소요된다는 단점**이 있었습니다.
 이러한 배경을 바탕으로 **사용자에게 편리함을 줄 수 있는 AI 챗봇**을 만들게 되었습니다.
 
-**Python, HTML, CSS, JS**과 **Google Cloud Platform** 등을 사용해 웹 페이지 형태로 구현 및 배포하였습니다. 
-**Azure Speech Studio**의 **Custom Voice, TTS(Text-to-Speech) 서비스** 등을 활용하여 챗봇 내 음성 인터페이스를 구현하였습니다. 
-**Azure AI Studio**의 **OpenAI(GPT-4o 기반), AI Search, 채팅 플레이그라운드** 등을 활용하여 챗봇의 설정을 조정하고, 프롬프트 튜닝과 페르소나 설정을 최적화하였습니다. 
+**Python, HTML, CSS, JS**과 **Google Cloud Platform** 등을 사용해 웹 페이지 형태로 구현 및 배포하였습니다.   
+**Azure Speech Studio**의 **Custom Voice, TTS(Text-to-Speech) 서비스** 등을 활용하여 챗봇 내 음성 인터페이스를 구현하였습니다.  
+**Azure AI Studio**의 **OpenAI(GPT-4o 기반), AI Search, 채팅 플레이그라운드** 등을 활용하여 챗봇의 설정을 조정하고, 프롬프트 튜닝과 페르소나 설정을 최적화하였습니다.   
 
 
 
