@@ -25,18 +25,32 @@ Furthermore, **Azure AI Studio’s OpenAI (GPT-4o), AI Search, and Chat Playgrou
 
 
 ## :pushpin: 프로젝트의 목표 및 필요성 (Project Goal & Necessity)
-* 정책 접근성
-사용자가 다양한 정책들에 쉽게 접근할 수 있도록 도움 -> 정책 참여율 높이는데 기여
+* **정책 접근성 향상**  
+사용자가 다양한 정책에 쉽게 접근할 수 있도록 지원하여, 정책 참여율 증가에 기여한다.  
 
-* 효율적 정보 제공 
-정책의 핵심 내용과 신청 방법 등을 신속하고 정확하게 제공받기 위함
+* **효율적인 정보 제공**  
+정책의 핵심 내용과 신청 방법을 신속하고 정확하게 제공해, 사용자가 필요한 정보를 빠르게 얻을 수 있도록 한다.  
 
-* 정책 홍보 강화 및 사업성
-유명 캐틱터나 연예인의 음성을 사용해 지속적인 홍보 가능 -> 사업의 확장성 기대
-(음성 사용은 인공지능 윤리 원칙을 반드시 지킬 것)
+* **정책 홍보 강화 및 사업성**   
+유명 캐릭터나 연예인의 음성을 활용한 지속적인 정책 홍보가 가능하며, 이를 통해 사업의 확장성도 기대할 수 있다. (음성 사용 시, 인공지능 윤리 원칙을 반드시 준수할 것.)  
 
-* 사용자 맞춤형 경험 제공
-나만을 위한 서비스로 사용자의 만족도를 올려주며 정책의 활용도가 증대되는 효과 기대
+* **사용자 맞춤형 경험 제공**  
+개별 사용자의 요구에 맞춘 서비스를 제공해, 사용자 만족도를 높이고 정책의 활용도를 증가시키는 효과를 기대한다.
+
+
+**Improved Policy Accessibility**
+Helping users easily access various policies, contributing to higher participation rates.
+
+**Efficient Information Delivery**
+Providing quick and accurate details on policies and application methods.
+
+**Enhanced Policy Promotion & Business Potential**
+Using famous characters or celebrities' voices for continuous policy promotion, expanding business potential. (Voice usage will strictly follow AI ethical guidelines.)
+
+**Personalized User Experience**
+Delivering tailored services to increase user satisfaction and enhance policy utilization.
+
+
 
 
 ## :pushpin: 업무 분담 
