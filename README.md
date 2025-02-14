@@ -76,8 +76,8 @@ Furthermore, **Azure AI Studio’s OpenAI (GPT-4o), AI Search, and Chat Playgrou
 이미지 첨부
 
 ## :pushpin: 참고사항 (Notes)
-  실제 ‘온통청년’ 사이트와 연결된 챗봇이 아니며 프로젝트를 위한 가상의 화면입니다.   
-  이 프로젝트는 Microsoft Azure 서비스를 활용했습니다. 해당 코드를 활용하기 위해서는 Azure 서비스의 API 키와 EndPoint 값이 필요합니다.  
+  이 챗봇은 실제 ‘온통청년’ 사이트와 연결된 것이 아니라, 프로젝트를 위한 가상의 화면입니다.  
+  이 프로젝트는 Microsoft Azure 서비스를 활용하였으며, 코드를 실행하려면 Azure 서비스의 API 키와 EndPoint 값이 필요합니다.
   
-  This is not an actual chatbot connected to the '온통청년(youthcenter.go.kr)' website.
-  This project utilizes Microsoft Azure services. To use these codes, an API key and endpoint for the Azure service are required.
+  This chatbot is not connected to the actual '온통청년' website; it is a mock interface created for the project.  
+  This project utilizes Microsoft Azure services, and an API key and endpoint for the Azure service are required to use the code.
