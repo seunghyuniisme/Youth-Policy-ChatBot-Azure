@@ -38,13 +38,13 @@ Microsoft Azure OpenAI와 Azure Speech Studio를 활용하여 누구에게나 �
 * 개발 언어 (Language) : Python  
 * 데이터 수집 (Data Collection) : XML Parsing  
 
-**<모델 생성 (Model Creation)>**    
-**Azure AI Studio** (OpenAI GPT-4o, A I Search)   
-**Azure Speech Studio** (TTS, Custom Voice, Personal Voice)   
+  **<모델 생성 (Model Creation)>**    
+  **Azure AI Studio** (OpenAI GPT-4o, A I Search)   
+  **Azure Speech Studio** (TTS, Custom Voice, Personal Voice)   
 
-**<웹 구현 및 배포 (Web Implementaion & Deploy)>**  
-**웹 구현 (Web Implementaion)** : HTML, CSS, JS, Python Flask  
-**웹 배포 (Web Deploy)** : Google Cloud Platform  
+  **<웹 구현 및 배포 (Web Implementaion & Deploy)>**  
+  **웹 구현 (Web Implementaion)** : HTML, CSS, JS, Python Flask  
+  **웹 배포 (Web Deploy)** : Google Cloud Platform  
 
 
 ## :pushpin: 실행 화면 (Result)
