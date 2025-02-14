@@ -1,4 +1,4 @@
-# 맞춤형 청년정책 추천 AI 챗봇  (Youth Policy Recommendation AI ChatBot Using MS Azure OpenAI)
+# 맞춤형 청년정책 추천 AI 챗봇  (Youth Policy Recommendation AI ChatBot Using Microsoft Azure AI)
 
 Microsoft Azure OpenAI와 Azure Speech Studio를 활용하여 누구에게나 간편하고 직관적인 청년정책 추천 AI 챗봇을 만들었습니다.
 
@@ -35,8 +35,8 @@ Microsoft Azure OpenAI와 Azure Speech Studio를 활용하여 누구에게나 �
 
 
 ## :pushpin: 활용 기술 (Tech)
-개발 언어 (Language) : Python  
-데이터 수집 (Data Collection) : XML Parsing  
+* 개발 언어 (Language) : Python  
+* 데이터 수집 (Data Collection) : XML Parsing  
 
 **<모델 생성 (Model Creation)>**    
 **Azure AI Studio** (OpenAI GPT-4o, A I Search)   
@@ -54,5 +54,5 @@ Microsoft Azure OpenAI와 Azure Speech Studio를 활용하여 누구에게나 �
   실제 ‘온통청년’ 사이트와 연결된 챗봇이 아니며 프로젝트를 위한 가상의 화면입니다.   
   이 프로젝트는 Microsoft Azure 서비스를 활용했습니다. 해당 코드를 활용하기 위해서는 Azure 서비스의 API 키와 EndPoint 값이 필요합니다.  
   
-  This is not an actual chatbot connected to the "온통청년(youthcenter.go.kr)" website.
+  This is not an actual chatbot connected to the '온통청년(youthcenter.go.kr)' website.
   This project utilizes Microsoft Azure services. To use these codes, an API key and endpoint for the Azure service are required.
