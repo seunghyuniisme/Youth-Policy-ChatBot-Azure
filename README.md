@@ -1,12 +1,13 @@
 # 맞춤형 청년정책 추천 AI 챗봇  (Youth Policy Recommendation AI ChatBot Using Microsoft Azure AI)
 
-**Microsoft Azure OpenAI**와 **Azure Speech Studio**를 활용하여 **누구에게나 간편하고 직관적인 청년정책 추천 AI 챗봇**을 만들었습니다.
-대한민국에서 시행되고 있는 청년 정책의 수는 약 300개에 이르며 다양한 분야에 걸쳐 청년의 삶을 지원하고 있습니다. 하지만 정부 포털 사이트, SNS 등 다양한 매체에 **정책 정보가 분산되어 있어 정보의 세부 내용을 확인하는데 많은 시간이 소요된다는 단점**이 있었습니다.
-이러한 배경을 바탕으로 **사용자에게 편리함을 줄 수 있는 AI 챗봇**을 만들게 되었습니다.
+**Microsoft Azure OpenAI와 Azure Speech Studio를 활용하여 누구나 쉽게 사용할 수 있고 직관적인 청년정책 추천 AI 챗봇을 개발하였습니다.**
 
-**Python, HTML, CSS, JS**과 **Google Cloud Platform** 등을 사용해 웹 페이지 형태로 구현 및 배포하였습니다.   
-**Azure Speech Studio**의 **Custom Voice, TTS(Text-to-Speech) 서비스** 등을 활용하여 챗봇 내 음성 인터페이스를 구현하였습니다.  
-**Azure AI Studio**의 **OpenAI(GPT-4o 기반), AI Search, 채팅 플레이그라운드** 등을 활용하여 챗봇의 설정을 조정하고, 프롬프트 튜닝과 페르소나 설정을 최적화하였습니다.   
+현재 대한민국에서 시행 중인 청년 정책은 약 **300개**에 이르며, 다양한 분야에서 청년의 삶을 지원하고 있습니다. 그러나 정부 포털 사이트, SNS 등 **여러 매체에 정책 정보가 분산되어 있어, 필요한 정보를 찾고 세부 내용을 확인하는 데 많은 시간이 소요되는 문제**가 있었습니다. 이러한 배경을 바탕으로, **사용자가 원하는 정책을 쉽고 빠르게 탐색할 수 있도록 AI 챗봇을 개발하게 되었습니다.**
+
+챗봇은 웹 페이지 형태로 제공되며, **Python, HTML, CSS, JavaScript와 Google Cloud Platform(GCP)**을 활용하여 구현 및 배포하였습니다. 또한, **Azure Speech Studio의 Custom Voice 및 TTS(Text-to-Speech) 서비스**를 활용해 음성 인터페이스를 추가하여, 보다 **자연스러운 대화형 경험을 제공**할 수 있도록 하였습니다.
+
+또한, **Azure AI Studio의 OpenAI(GPT-4o), AI Search, 채팅 플레이그라운드 등을 활용하여 챗봇과의 대화 품질을 최적화**하였습니다. 이를 통해, **프롬프트 튜닝과 페르소나 설정을 조정하여 보다 정확하고 친숙한 응답을 제공할 수 있도록 개선**하였습니다.
+
 
 
 
