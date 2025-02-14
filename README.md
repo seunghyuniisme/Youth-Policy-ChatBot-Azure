@@ -9,12 +9,14 @@
 또한, **Azure AI Studio의 OpenAI(GPT-4o), AI Search, 채팅 플레이그라운드 등을 활용하여 챗봇과의 대화 품질을 최적화**하였습니다. 이를 통해, **프롬프트 튜닝과 페르소나 설정을 조정하여 보다 정확하고 친숙한 응답을 제공할 수 있도록 개선**하였습니다.    
 
 
-An intuitive and easy-to-use AI chatbot for recommending youth policies has been developed using Microsoft Azure OpenAI and Azure Speech Studio.  
 
-Currently, there are approximately 300 youth policies in effect in South Korea, supporting various aspects of young people's lives. However, policy information is scattered across multiple platforms such as government portals and social media, making it time-consuming to search for and review details. To address this issue, an AI chatbot was created to help users quickly and easily find the policies they need.  
 
-The chatbot is provided as a web-based service, implemented and deployed using Python, HTML, CSS, JavaScript, and Google Cloud Platform (GCP). Additionally, Azure Speech Studio's Custom Voice and Text-to-Speech (TTS) services were integrated to enhance the chatbot with a natural and interactive voice interface.  
-Furthermore, Azure AI Studio’s OpenAI (GPT-4o), AI Search, and Chat Playground were utilized to optimize the chatbot's conversation quality. By fine-tuning prompts and persona settings, the chatbot’s ability to deliver more accurate and user-friendly responses has been improved.
+**An intuitive and easy-to-use AI chatbot for recommending youth policies has been developed using Microsoft Azure OpenAI and Azure Speech Studio.**  
+
+Currently, there are approximately **300 youth policies** in effect in South Korea, supporting various aspects of young people's lives. However, policy information is scattered across multiple platforms such as government portals and social media, making it time-consuming to search for and review details. To address this issue, an **AI chatbot was created to help users quickly and easily find the policies they need.**  
+
+The chatbot is provided as a **web-based service**, implemented and deployed using **Python, HTML, CSS, JavaScript, and Google Cloud Platform (GCP)**. Additionally, **Azure Speech Studio's Custom Voice and Text-to-Speech (TTS) services** were integrated to enhance the chatbot with a natural and interactive voice interface.  
+Furthermore, **Azure AI Studio’s OpenAI (GPT-4o), AI Search, and Chat Playground** were utilized to optimize the chatbot's **conversation quality**. By fine-tuning prompts and persona settings, the chatbot’s ability to deliver **more accurate and user-friendly responses** has been improved.
 
 
 
