@@ -15,11 +15,9 @@
 
 **An intuitive AI chatbot for youth policy recommendations developed using Microsoft Azure OpenAI and Azure Speech Studio.**  
 
-Currently, there are approximately **300 youth policies** in effect in South Korea, supporting various aspects of young people's lives. However, policy information is scattered across multiple platforms such as government portals and social media, making it time-consuming to search for and review details. To address this issue, an **AI chatbot was created to help users quickly and easily find the policies they need.**  
+South Korea currently has around **300 youth policies**, but information is scattered across various platforms, making searches time-consuming. To solve this, an **AI chatbot was developed to help users quickly find relevant policies**.  
 
-The chatbot is provided as a **web-based service**, implemented and deployed using **Python, HTML, CSS, JavaScript, and Google Cloud Platform (GCP)**. Additionally, **Azure Speech Studio's Custom Voice and Text-to-Speech (TTS) services** were integrated to enhance the chatbot with a natural and interactive voice interface.     
-
-Furthermore, **Azure AI Studio’s OpenAI (GPT-4o), AI Search, and Chat Playground** were utilized to optimize the chatbot's **conversation quality**. By fine-tuning prompts and persona settings, the chatbot’s ability to deliver **more accurate and user-friendly responses** has been improved.
+The **web-based** chatbot was built using **Python, HTML, CSS, JavaScript, and GCP**, with **Azure Speech Studio’s TTS** for a natural voice interface. Additionally, **Azure AI Studio’s OpenAI (GPT-4o), AI Search,** and **Chat Playground** were used to enhance conversation quality through fine-tuned prompts and persona settings.  
 
 
 
