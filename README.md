@@ -76,10 +76,7 @@ The **web-based** chatbot was built using **Python, HTML, CSS, JavaScript, and G
 ## :pushpin: 실행 화면 (Result)
 ![Image](https://github.com/user-attachments/assets/cc05b1cb-3c08-4cab-ac54-764ac6b59df5)
 ![Image](https://github.com/user-attachments/assets/d348d7ff-c663-48c4-9d45-3a481ecab202)
-<img width="652" alt="Image" src="https://github.com/user-attachments/assets/e0c16f51-86a5-45b4-9175-f8a422031f4d" />
-<img width="455" alt="Image" src="https://github.com/user-attachments/assets/db238be0-2bcf-4e64-8412-d4489c33dc58" />
-<img width="452" alt="Image" src="https://github.com/user-attachments/assets/f807dc7d-46ae-4344-a8f4-e9d0b07af03f" />
-<img width="460" alt="Image" src="https://github.com/user-attachments/assets/4460a427-ac8a-4d78-be10-7ef72c773f2b" />
+![Image](https://github.com/user-attachments/assets/f18a6f3a-a583-4a0e-8b0b-2564c40ff3dc)
 
 ## :pushpin: 참고사항 (Notes)
   이 챗봇은 실제 ‘온통청년’ 사이트와 연결된 것이 아니라, 프로젝트를 위한 가상의 화면입니다.  
