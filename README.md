@@ -13,7 +13,7 @@
 
 
 
-**An intuitive and easy-to-use AI chatbot for recommending youth policies has been developed using Microsoft Azure OpenAI and Azure Speech Studio.**  
+**An intuitive AI chatbot for youth policy recommendations developed using Microsoft Azure OpenAI and Azure Speech Studio.**  
 
 Currently, there are approximately **300 youth policies** in effect in South Korea, supporting various aspects of young people's lives. However, policy information is scattered across multiple platforms such as government portals and social media, making it time-consuming to search for and review details. To address this issue, an **AI chatbot was created to help users quickly and easily find the policies they need.**  
 
