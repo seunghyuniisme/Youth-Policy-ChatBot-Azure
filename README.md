@@ -23,16 +23,16 @@ The **web-based** chatbot was built using **Python, HTML, CSS, JavaScript, and G
 
 
 ## :pushpin: 프로젝트의 목표 및 필요성 (Project Goal & Necessity)
-* **정책 접근성 향상**  
+* **정책 접근성 향상 (Improved Policy Accessibility)**  
 사용자가 다양한 정책에 쉽게 접근할 수 있도록 지원하여 정책 참여율 증가에 기여함.  
 
-* **효율적인 정보 제공**  
+* **효율적인 정보 제공 (Efficient Information Delivery)**  
 정책의 핵심 내용과 신청 방법을 신속하고 정확하게 제공해 사용자가 필요한 정보를 빠르게 얻을 수 있도록 함.   
 
-* **정책 홍보 강화 및 사업성**   
+* **정책 홍보 강화 및 사업성 (Enhanced Policy Promotion & Business Potential)**   
 유명 캐릭터나 연예인의 음성을 활용한 지속적인 정책 홍보가 가능하며 이를 통한 사업의 확장성 기대. (음성 사용 시, 인공지능 윤리 원칙을 반드시 준수할 것)  
 
-* **사용자 맞춤형 경험 제공**  
+* **사용자 맞춤형 경험 제공 (Personalized User Experience)**  
 개별 사용자의 요구에 맞춘 서비스를 제공해 사용자 만족도를 높이고 정책의 활용도를 증가시키는 효과 기대.
 
 ---
