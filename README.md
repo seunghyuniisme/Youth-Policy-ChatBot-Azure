@@ -35,13 +35,6 @@ The **web-based** chatbot was built using **Python, HTML, CSS, JavaScript, and G
 * **사용자 맞춤형 경험 제공 (Personalized User Experience)**  
 개별 사용자의 요구에 맞춘 서비스를 제공해 사용자 만족도를 높이고 정책의 활용도를 증가시키는 효과 기대.
 
----
-
-* Improved Policy Accessibility  
-* Efficient Information Delivery  
-* Enhanced Policy Promotion & Business Potential    
-* Personalized User Experience    
-
 
 
 ## :pushpin: 업무 분담 
