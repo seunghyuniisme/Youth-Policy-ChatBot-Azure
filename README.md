@@ -45,7 +45,8 @@ The **web-based** chatbot was built using **Python, HTML, CSS, JavaScript, and G
 
 ## :pushpin: 주요 기능 (Key Features)
 **1. 페르소나 기반 챗봇 (캐릭터 선택 옵션) (Persona-Based Chatbot with Character Selection)**  
-	사용자가 원하는 캐릭터를 선택할 수 있으며, 해당 캐릭터의 특징에 맞는 시스템 메시지와 페르소나를 설정하여 자연스러운 대화를 유도함
+	사용자가 원하는 캐릭터를 선택할 수 있으며, 해당 캐릭터의 특징에 맞는 시스템 메시지와 페르소나를 설정하여  
+ 	자연스러운 대화를 유도함
 
 **2. 네이버 검색 API 연동 (Use of Naver Search API)**  
   정책과 관련된 정보(신청 방법, 후기 등)을 보다 쉽게 얻을 수 있도록 네이버 검색 API를 활용해 관련 네이버 블로그 글을 제공  
