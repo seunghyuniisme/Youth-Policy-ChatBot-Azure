@@ -37,12 +37,6 @@ The **web-based** chatbot was built using **Python, HTML, CSS, JavaScript, and G
 
 
 
-## :pushpin: 업무 분담 
-
-
-
-
-
 ## :pushpin: 주요 기능 (Key Features)
 
 1. **페르소나 기반 챗봇 (캐릭터 선택 옵션) (Persona-Based Chatbot with Character Selection)**  
