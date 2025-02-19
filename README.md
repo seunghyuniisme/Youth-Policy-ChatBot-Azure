@@ -1,4 +1,4 @@
-# 맞춤형 청년정책 추천 AI 챗봇     (Youth Policy Recommendation AI ChatBot Using Microsoft Azure AI)
+# 📱 맞춤형 청년정책 추천 AI 챗봇 (Youth Policy Recommendation AI ChatBot Using Microsoft Azure AI)
 
 **Microsoft Azure OpenAI와 Azure Speech Studio를 활용하여 누구나 쉽게 사용할 수 있고 직관적인 청년정책 추천 AI 챗봇을 개발하였습니다.**
 
