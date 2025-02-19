@@ -17,7 +17,11 @@
 
 South Korea currently has around **300 youth policies**, but information is scattered across various platforms, making searches time-consuming. To solve this, an **AI chatbot was developed to help users quickly find relevant policies**.  
 
-The **web-based** chatbot was built using **Python, HTML, CSS, JavaScript, and GCP**, with **Azure Speech Studio’s TTS** for a natural voice interface. Additionally, **Azure AI Studio’s OpenAI (GPT-4o), AI Search,** and **Chat Playground** were used to enhance conversation quality through fine-tuned prompts and persona settings.  
+The **web-based** chatbot was built using **Python, HTML, CSS, JavaScript, and GCP**, with **Azure Speech Studio’s TTS** for a natural voice interface. Additionally, **Azure AI Studio’s OpenAI (GPT-4o), AI Search,** and **Chat Playground** were used to enhance conversation quality through fine-tuned prompts and persona settings.    
+
+
+
+      
 
 
 
