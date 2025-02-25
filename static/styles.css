@@ -1,0 +1,182 @@
+@font-face {
+  font-family: 'Pretendard-Regular';
+  src: url('https://fastly.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Pretendard-Regular', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.banner {
+  position: relative;
+  height: 10vh; /* 전체 화면 높이의 10% */
+  background-color: #c4dfffe2; /* 하늘색 배경 */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.banner img {
+  width: 80%;
+  height: auto;
+}
+
+
+.divider {
+  height: 2mm; 
+  background-color: #e4e4e4d5; /* 회색 배경 */
+  width: 100%;
+}
+
+
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1200px;
+  margin: 20px auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+#character-buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  gap: 10px;
+}
+
+.character-btn {
+  font-family: 'Pretendard-Regular', sans-serif;
+  font-weight: bold;
+  font-size: 16px; 
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #e8edf5;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.character-btn:hover {
+  background-color: #d4e0f0;
+  transform: scale(1.05);
+}
+
+.character-btn.selected {
+  background-color: #457cdadf;
+  color: white;
+}
+
+.chat-box {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  height: 500px;
+  width: 80%;
+  overflow-y: auto;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: white;
+  width: 100%;
+  display: flex;
+  flex-direction: column; /* Ensure messages are stacked vertically */
+}
+
+.message {
+  display: inline-block; 
+  max-width: 80%; 
+  margin: 5px 0;
+  padding: 8px;
+  border-radius: 15px;
+  word-wrap: break-word; 
+  box-sizing: border-box; 
+}
+
+.message.user {
+  align-self: flex-end; /* Align user messages to the right */
+  background-color: #e6f0ffcd;
+  color: black;
+  margin-bottom: 10px; /* Add space below user messages */
+  padding: 12px;
+}
+
+.message.ai {
+  align-self: flex-start; /* Align AI messages to the left */
+  background-color: #f2f2f2;
+  color: black;
+  margin-top: 8px; 
+  padding: 12px;
+  line-height: 1.2;
+}
+
+.message.error {
+  text-align: center;
+  background-color: #ffebee;
+  color: red;
+}
+
+.input-container {
+  display: flex;
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#user-input {
+  flex: 1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  font-family: 'Pretendard-Regular', sans-serif;
+}
+
+#send-btn {
+  width: 120px;
+  padding: 10px;
+  cursor: pointer;
+  margin-left: 10px;
+  background-color: #457cdadf;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+  font-family: 'Pretendard-Regular', sans-serif;
+  font-size: 16px;
+}
+
+#send-btn:hover {
+  background-color: #457cdadf;
+}
+
+#convert-btn {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #ffe343ee;
+  color: black;
+  border: 2px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+  display: block;
+  transition: background-color 0.3s;
+  font-family: 'Pretendard-Regular', sans-serif;
+  font-size: 15px;
+}
+
+#convert-btn:hover {
+  background-color: black; /* hover 시 어울리는 배경색 */
+  color: white; /* hover 시 글씨 색을 흰색으로 변경 */
+}
+
+audio {
+  margin-top: 20px;
+  width: 100%;
+}
