@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>청년정책 알려DREAM</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <link rel="icon" type="image/png" href="/image/icon.png">
+</head>
+<body>
+    <div class="banner-container">
+        <div class="banner">
+            <img src="/image/banner_trans.png" alt="Page Banner">
+        </div>
+        <div class="divider"></div> <!-- 회색 박스 추가 -->
+    </div>
+
+    <div class="chat-container">
+        <!-- 캐릭터 선택 버튼 -->
+        <div id="character-buttons">
+            <button class="character-btn" data-character="1">퓨</button>
+            <button class="character-btn" data-character="2">예건</button>
+            <button class="character-btn" data-character="3">홍철</button>
+            <button class="character-btn" data-character="4">영지</button>
+            <button class="character-btn" data-character="5">원영</button>
+        </div>
+
+        <div class="chat-box" id="chat-box">
+            <!-- 채팅 메시지가 여기 나타납니다 -->
+        </div>
+
+        <!-- 입력 필드와 버튼을 감싸는 div 추가 -->
+        <div class="input-container">
+            <input type="text" id="user-input" placeholder="메시지를 입력하세요.">
+            <button id="send-btn">전송</button>
+        </div>
+
+        <!-- 변환 버튼 추가 -->
+        <button id="convert-btn" style="display:none;">들어보기</button>
+
+        <h2>생성된 음성을 확인해 보세요</h2>
+        <audio id="audio" controls style="display:none;">
+            <source id="audio-source" type="audio/wav">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
